@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Raed Mohamed Amin Hamrouni  
+### Hi there! 👋 I'm Samah SAIDI
 #### 🚀 Software Engineer
 
 ---
@@ -22,6 +22,6 @@
 ---
 
 ### 📫 Let's Connect!
-- 🔗 LinkedIn: [Raed Med Amin Hamrouni](https://www.linkedin.com/in/raed-med-amin-hamrouni-3a6406228/)
+- 🔗 LinkedIn: [Samah SAIDI](https://github.com/samah-saidi)
 
-- 📧 Email: [hamrouniraed50@gmail.com](mailto:hamrouniraed50@gmail.com)
+- 📧 Email: [samah.saidi@polytechnicien.tn](mailto:samahsaidi286@gmail.com)
