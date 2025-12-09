@@ -151,7 +151,3 @@ Desktop app with real-time tracking & alerts.
 
 ---
 
-<p align="center">
-  <i>💡 “Transforming data into insights, and insights into impact.”</i><br><br>
-  <img src="https://komarev.com/ghpvc/?username=samah-saidi&color=blueviolet&style=for-the-badge"/>
-</p>
